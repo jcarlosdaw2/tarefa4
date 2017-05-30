@@ -1,1 +1,1 @@
-<?php phpinfo(); ?>
+<?php echo "Isto é un cambio"; ?>
